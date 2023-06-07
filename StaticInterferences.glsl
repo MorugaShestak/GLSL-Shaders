@@ -1,6 +1,6 @@
-// https://www.shadertoy.com/view/dtGXzG
-
 #version 300 es
+
+// https://www.shadertoy.com/view/dtGXzG
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {
